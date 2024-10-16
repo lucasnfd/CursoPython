@@ -9,7 +9,7 @@ print(int_um, type(int_um))
 print(nome_completo) # Lucas Daniel N Freire.
 
 nome = 'Lucas'
-idade = 14
+idade = 25
 maior_de_idade = idade >= 18
 print('Nome:', nome, 'Idade:', idade)
 print('É maior?', maior_de_idade)
