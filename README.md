@@ -1,2 +1,2 @@
-# CursoPytho
+# CursoPython
 Curso Completo
