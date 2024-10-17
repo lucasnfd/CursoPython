@@ -1,0 +1,5 @@
+print(imc)
+print('nome', nome)
+print('altura', altura)
+print('peso', peso)
+print('imc', imc)
